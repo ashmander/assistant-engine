@@ -3,7 +3,8 @@
 Prototipo de ingeniería de prompts para el asistente de atención al cliente de
 EcoMarket (Fase 3), usando **Llama 3 (8B)** de forma local a través de
 [Ollama](https://ollama.com), en línea con la arquitectura propuesta en
-`Seleccion Modelo.md`.
+`Seleccion Modelo.md`. También se evaluan las limitaciones y riesgos eticos en
+`Evaluacion de Asistente.md`.
 
 ## Autores
 Andres Cuellar
@@ -36,15 +37,17 @@ uv sync
 ## Uso
 
 ### Ejercicio 1: Estado de pedido
+Entre las comillas reemplaza por el texto que desees enviarle al agente de AI.
 
 ```bash
-uv run python src/assistant_engine/order_status.py ECO-1003
+uv run python src/assistant_engine/order_status.py "Quiero saber el estado del producto ECO-1003"
 ```
 
 ### Ejercicio 2: Devolución de producto
+Entre las comillas reemplaza por el texto que desees enviarle al agente de AI.
 
 ```bash
-uv run python src/assistant_engine/product_return.py "Cafe organico en grano 500g"
+uv run python src/assistant_engine/product_return.py "Quisiera devolver el Cafe organico en grano 500g"
 ```
 
 Cada script inyecta el archivo de datos completo (`orders.txt` o `products.txt`)
