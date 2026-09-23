@@ -1,0 +1,11 @@
+producto | categoria | es_devolvible | dias_para_devolucion | motivo
+Botella reutilizable de acero | menaje | si | 30 | Producto no perecedero y no de higiene personal
+Cepillo de dientes de bambu | higiene personal | no | 0 | Producto de higiene personal, no puede reingresar a inventario por salud
+Cafe organico en grano 500g | alimento perecedero | no | 0 | Producto perecedero, no se acepta devolucion una vez entregado
+Bolsa de tela para mercado | menaje | si | 30 | Producto no perecedero y no de higiene personal
+Jabon en barra natural | higiene personal | no | 0 | Producto de higiene personal, no puede reingresar a inventario por salud
+Set de contenedores de vidrio | menaje | si | 30 | Producto no perecedero y no de higiene personal
+Miel organica 350g | alimento perecedero | no | 0 | Producto perecedero, no se acepta devolucion una vez entregado
+Desodorante natural en barra | higiene personal | no | 0 | Producto de higiene personal, no puede reingresar a inventario por salud
+Cuaderno de papel reciclado | papeleria | si | 15 | Producto no perecedero y no de higiene personal
+Panela organica 1kg | alimento perecedero | no | 0 | Producto perecedero, no se acepta devolucion una vez entregado

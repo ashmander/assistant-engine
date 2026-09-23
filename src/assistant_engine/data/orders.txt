@@ -1,0 +1,11 @@
+tracking_number | estado | fecha_estimada_entrega | enlace_rastreo
+ECO-1001 | Entregado | 2026-09-10 | https://ecomarket.example.com/rastreo/ECO-1001
+ECO-1002 | En camino | 2026-09-24 | https://ecomarket.example.com/rastreo/ECO-1002
+ECO-1003 | Retrasado | 2026-09-27 | https://ecomarket.example.com/rastreo/ECO-1003
+ECO-1004 | Preparando pedido | 2026-09-26 | https://ecomarket.example.com/rastreo/ECO-1004
+ECO-1005 | Entregado | 2026-09-05 | https://ecomarket.example.com/rastreo/ECO-1005
+ECO-1006 | En camino | 2026-09-23 | https://ecomarket.example.com/rastreo/ECO-1006
+ECO-1007 | Cancelado | N/A | https://ecomarket.example.com/rastreo/ECO-1007
+ECO-1008 | Retrasado | 2026-09-30 | https://ecomarket.example.com/rastreo/ECO-1008
+ECO-1009 | Entregado | 2026-09-15 | https://ecomarket.example.com/rastreo/ECO-1009
+ECO-1010 | En camino | 2026-09-25 | https://ecomarket.example.com/rastreo/ECO-1010
