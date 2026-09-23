@@ -7,8 +7,8 @@ EcoMarket (Fase 3), usando **Llama 3 (8B)** de forma local a través de
 `Evaluacion de Asistente.md`.
 
 ## Autores
-Andres Cuellar
-Andres Felipe Gonzalez
+- Andres Cuellar
+- Andres Felipe Gonzalez
 
 ## Requisitos
 
