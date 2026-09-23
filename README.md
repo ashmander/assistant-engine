@@ -5,6 +5,10 @@ EcoMarket (Fase 3), usando **Llama 3 (8B)** de forma local a través de
 [Ollama](https://ollama.com), en línea con la arquitectura propuesta en
 `Seleccion Modelo.md`.
 
+## Autores
+Andres Cuellar
+Andres Felipe Gonzalez
+
 ## Requisitos
 
 1. Tener [Ollama](https://ollama.com/download) instalado y corriendo localmente.
