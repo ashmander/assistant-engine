@@ -1,0 +1,5 @@
+# Credenciales
+.env
+
+# Versiones alternativas del asistente (evaluadas, no entregadas)
+versiones_alternativas/

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "FAQ-01",
+    "categoria": "pagos",
+    "pregunta": "¿Qué medios de pago aceptan?",
+    "respuesta": "Aceptamos tarjetas de crédito y débito Visa, Mastercard y American Express, PSE, Nequi, Daviplata y pago contra entrega en efectivo en ciudades principales."
+  },
+  {
+    "id": "FAQ-02",
+    "categoria": "pagos",
+    "pregunta": "¿Puedo pagar a cuotas?",
+    "respuesta": "Sí. Con tarjeta de crédito puedes diferir tu compra hasta 36 cuotas según las condiciones de tu banco. EcoMarket no cobra intereses adicionales."
+  },
+  {
+    "id": "FAQ-03",
+    "categoria": "pagos",
+    "pregunta": "¿Por qué fue rechazado mi pago?",
+    "respuesta": "Los rechazos suelen deberse a fondos insuficientes, datos incorrectos o bloqueos de seguridad del banco. Te recomendamos verificar los datos o comunicarte con tu entidad bancaria; EcoMarket no tiene acceso a la información de tu tarjeta."
+  },
+  {
+    "id": "FAQ-04",
+    "categoria": "pagos",
+    "pregunta": "¿Cómo obtengo mi factura electrónica?",
+    "respuesta": "La factura electrónica se envía automáticamente al correo registrado dentro de las 48 horas posteriores al pago. Si necesitas factura a nombre de una empresa, ingresa el NIT en el campo Datos de facturación antes de pagar."
+  },
+  {
+    "id": "FAQ-05",
+    "categoria": "pagos",
+    "pregunta": "¿El precio incluye IVA?",
+    "respuesta": "Sí, todos los precios publicados en la tienda incluyen el IVA correspondiente. Los productos de la canasta básica, como la panela, están exentos."
+  },
+  {
+    "id": "FAQ-06",
+    "categoria": "cuenta",
+    "pregunta": "¿Cómo creo una cuenta?",
+    "respuesta": "Haz clic en Registrarme, ingresa tu correo electrónico y crea una contraseña. También puedes registrarte con tu cuenta de Google. Recibirás un correo para confirmar tu cuenta."
+  },
+  {
+    "id": "FAQ-07",
+    "categoria": "cuenta",
+    "pregunta": "Olvidé mi contraseña, ¿qué hago?",
+    "respuesta": "En la pantalla de inicio de sesión selecciona ¿Olvidaste tu contraseña? y te enviaremos un enlace de restablecimiento que es válido por 30 minutos."
+  },
+  {
+    "id": "FAQ-08",
+    "categoria": "cuenta",
+    "pregunta": "¿Cómo elimino mi cuenta y mis datos?",
+    "respuesta": "Puedes solicitar la eliminación de tu cuenta escribiendo a datospersonales@ecomarket.example.com. Un asesor humano procesará la solicitud en un máximo de 15 días hábiles, conforme a la Ley 1581 de 2012 de protección de datos."
+  },
+  {
+    "id": "FAQ-09",
+    "categoria": "cuenta",
+    "pregunta": "¿Puedo cambiar la dirección de entrega de un pedido ya realizado?",
+    "respuesta": "Solo es posible cambiar la dirección mientras el pedido esté en estado Pago confirmado. Una vez pasa a Preparando pedido, la dirección no puede modificarse."
+  },
+  {
+    "id": "FAQ-10",
+    "categoria": "ecopuntos",
+    "pregunta": "¿Qué son los EcoPuntos?",
+    "respuesta": "EcoPuntos es nuestro programa de fidelización: ganas 1 EcoPunto por cada 1.000 pesos de compra. Cada 100 EcoPuntos equivalen a 5.000 pesos de descuento en tu siguiente compra."
+  },
+  {
+    "id": "FAQ-11",
+    "categoria": "ecopuntos",
+    "pregunta": "¿Los EcoPuntos se vencen?",
+    "respuesta": "Sí, los EcoPuntos vencen 12 meses después de haberlos obtenido. Puedes consultar tu saldo y fechas de vencimiento en Mi cuenta, sección EcoPuntos."
+  },
+  {
+    "id": "FAQ-12",
+    "categoria": "ecopuntos",
+    "pregunta": "¿Gano EcoPuntos por devolver envases?",
+    "respuesta": "Sí. Por cada envase de vidrio de EcoMarket que devuelvas limpio en un punto de reciclaje aliado recibes 20 EcoPuntos."
+  },
+  {
+    "id": "FAQ-13",
+    "categoria": "sostenibilidad",
+    "pregunta": "¿Qué tipo de empaque usan en los envíos?",
+    "respuesta": "Todos nuestros envíos usan cajas de cartón reciclado, relleno de papel kraft y cinta de papel. No usamos plástico de burbujas ni icopor."
+  },
+  {
+    "id": "FAQ-14",
+    "categoria": "sostenibilidad",
+    "pregunta": "¿Cómo compensan la huella de carbono de los envíos?",
+    "respuesta": "Compensamos el 100% de las emisiones de nuestros envíos sembrando árboles nativos con la fundación aliada Bosques de Colombia. Cada pedido incluye un código para ver el árbol sembrado."
+  },
+  {
+    "id": "FAQ-15",
+    "categoria": "sostenibilidad",
+    "pregunta": "¿Sus productos tienen certificaciones?",
+    "respuesta": "Muchos de nuestros productos cuentan con certificaciones como GOTS para textiles, sello orgánico para alimentos y FSC para productos de madera y papel. La certificación de cada producto se indica en su ficha."
+  },
+  {
+    "id": "FAQ-16",
+    "categoria": "productos",
+    "pregunta": "¿Cuándo vuelve a estar disponible un producto agotado?",
+    "respuesta": "Los productos agotados suelen reabastecerse en un plazo de 2 a 3 semanas. En la ficha del producto puedes activar la opción Avísame para recibir un correo cuando vuelva a estar disponible."
+  },
+  {
+    "id": "FAQ-17",
+    "categoria": "productos",
+    "pregunta": "¿Venden al por mayor?",
+    "respuesta": "Sí, tenemos precios especiales para compras institucionales o de más de 50 unidades. Escribe a mayoristas@ecomarket.example.com con tu solicitud."
+  },
+  {
+    "id": "FAQ-18",
+    "categoria": "productos",
+    "pregunta": "¿Cómo debo lavar los contenedores de vidrio con tapa de bambú?",
+    "respuesta": "El vidrio puede lavarse en lavavajillas, pero la tapa de bambú debe lavarse a mano y secarse de inmediato para evitar que se agriete."
+  },
+  {
+    "id": "FAQ-19",
+    "categoria": "productos",
+    "pregunta": "¿La compostera eléctrica hace ruido?",
+    "respuesta": "La compostera eléctrica opera a 40 decibeles, un nivel similar al de una nevera, y tiene un modo nocturno silencioso."
+  },
+  {
+    "id": "FAQ-20",
+    "categoria": "envios",
+    "pregunta": "¿Hacen envíos el mismo día?",
+    "respuesta": "Sí, en Bogotá y Medellín ofrecemos envío express el mismo día para pedidos realizados antes de las 11:00 a. m., con un costo adicional de 12.900 pesos."
+  },
+  {
+    "id": "FAQ-21",
+    "categoria": "envios",
+    "pregunta": "¿Qué pasa si no estoy en casa cuando llega el pedido?",
+    "respuesta": "La transportadora realiza hasta dos intentos de entrega. Si ambos fallan, el paquete queda disponible en la oficina más cercana durante 5 días hábiles antes de ser devuelto a EcoMarket."
+  },
+  {
+    "id": "FAQ-22",
+    "categoria": "envios",
+    "pregunta": "¿Puedo recoger mi pedido en un punto físico?",
+    "respuesta": "Sí, puedes elegir la opción Recoger en tienda y retirar tu pedido sin costo en nuestra bodega de Bogotá, ubicada en la Calle 80, en horario de lunes a sábado."
+  },
+  {
+    "id": "FAQ-23",
+    "categoria": "suscripciones",
+    "pregunta": "¿Cómo funciona la suscripción EcoCanasta?",
+    "respuesta": "EcoCanasta es una suscripción mensual que entrega una caja con café, panela, granola y productos de temporada. Cuesta 119.900 pesos al mes con envío incluido y puedes pausarla o cancelarla en cualquier momento desde Mi cuenta."
+  },
+  {
+    "id": "FAQ-24",
+    "categoria": "suscripciones",
+    "pregunta": "¿Puedo cambiar los productos de mi EcoCanasta?",
+    "respuesta": "Sí, hasta 5 días antes de la fecha de despacho puedes reemplazar hasta 3 productos de tu caja desde la sección Mis suscripciones."
+  },
+  {
+    "id": "FAQ-25",
+    "categoria": "promociones",
+    "pregunta": "¿Cómo uso un cupón de descuento?",
+    "respuesta": "Ingresa el código del cupón en el campo Cupón del carrito antes de pagar. Solo se permite un cupón por compra y no es acumulable con otras promociones."
+  },
+  {
+    "id": "FAQ-26",
+    "categoria": "promociones",
+    "pregunta": "¿Tienen descuento por primera compra?",
+    "respuesta": "Sí, al suscribirte a nuestro boletín recibes un cupón de 10% de descuento para tu primera compra, válido por 30 días."
+  },
+  {
+    "id": "FAQ-27",
+    "categoria": "devoluciones",
+    "pregunta": "¿Puedo devolver un producto que compré con cupón?",
+    "respuesta": "Sí. En ese caso se reembolsa el valor efectivamente pagado, es decir, el precio menos el descuento aplicado por el cupón. El cupón no se reactiva."
+  },
+  {
+    "id": "FAQ-28",
+    "categoria": "devoluciones",
+    "pregunta": "¿Qué hago si recibí un producto que no pedí?",
+    "respuesta": "Repórtalo dentro de las 48 horas siguientes a la entrega desde Mis pedidos, con una foto del producto. Te enviaremos el producto correcto y una guía para devolver el equivocado sin costo."
+  },
+  {
+    "id": "FAQ-29",
+    "categoria": "empresa",
+    "pregunta": "¿Dónde están ubicados?",
+    "respuesta": "EcoMarket es una empresa colombiana con sede principal y bodega en Bogotá. Operamos únicamente como tienda en línea; no tenemos tiendas de venta al público."
+  },
+  {
+    "id": "FAQ-30",
+    "categoria": "empresa",
+    "pregunta": "¿Cómo puedo vender mis productos en EcoMarket?",
+    "respuesta": "Si eres un productor sostenible, puedes postularte en la sección Vende con nosotros. Evaluamos certificaciones, origen y empaque; la respuesta llega en un máximo de 20 días hábiles."
+  }
+]
