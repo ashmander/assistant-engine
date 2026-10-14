@@ -80,6 +80,7 @@ con los componentes elegidos en las Fases 1 y 2, usando **LangChain** como en
 ### Uso
 
 Requiere Ollama corriendo con `llama3:8b` y `nomic-embed-text-v2-moe`. No necesita Docker ni API keys.
+Ejecutar comando estando en la carpeta de entrega2.
 
 ```bash
 uv run python rag/asistente_rag_langchain.py                                  # modo interactivo
@@ -137,8 +138,6 @@ solo se consultan con su número de seguimiento.
 ### Limitaciones y suposiciones
 
 - **Índice en memoria:** se reconstruye en cada ejecución (~100 chunks, pocos segundos). En producción se usaría Qdrant persistente o un servidor Qdrant, con *upsert* por registro cuando cambie un producto o una FAQ.
-- **Pedidos desde Excel:** en producción se consultarían en la base de datos transaccional de EcoMarket.
 - **Ejecución local:** se asume un equipo con Ollama y unos 6 GB de memoria libre para Llama 3 8B y nomic.
-- **Datos ficticios:** las fuentes de `data/` son de ejemplo.
-- **Umbral fijo (0.374):** se estimó con un set pequeño (ver `BaseDeConocimiento.md`, sección 4.7).
+- **Umbral fijo (0.374):** se estimó con un set pequeño.
 - **Preguntas de enumeración:** el catálogo permite listar los productos, pero preguntas como "¿cuáles tienen stock?" o "¿cuál es el más barato?" requieren consultas estructuradas, no búsqueda por similitud.
