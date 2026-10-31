@@ -40,6 +40,12 @@ dependencies = [
     "langchain-ollama>=1.1.0",
     "langchain-qdrant>=1.1.0",
     "langchain-classic>=1.0.8",
+    # Entrega 3: agente, interfaz y observabilidad
+    "langchain>=1.0",
+    "streamlit>=1.40",
+    "arize-phoenix>=21.0.0",
+    "arize-phoenix-otel>=0.17.2",
+    "openinference-instrumentation-langchain>=0.1.81",
 ]
 
 [project.scripts]
