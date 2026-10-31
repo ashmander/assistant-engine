@@ -6,6 +6,12 @@ EcoMarket (Fase 3), usando **Llama 3 (8B)** de forma local a través de
 `Seleccion Modelo.md`. También se evaluan las limitaciones y riesgos eticos en
 `Evaluacion de Asistente.md`.
 
+## Entregas
+
+- Entrega 1: este README (scripts en `src/assistant_engine`).
+- [Entrega 2](entrega2/README.md): sistema RAG con LangChain, Qdrant y nomic.
+- [Entrega 3 - Proyecto Final](entrega3/README.md): agente de devoluciones con herramientas, observabilidad con Phoenix e interfaz en Streamlit.
+
 ## Autores
 - Andres Cuellar
 - Andres Felipe Gonzalez
